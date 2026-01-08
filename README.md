@@ -34,7 +34,7 @@
 
 ---
 
-## ✅ Các chức năng được kiểm thử
+## ✅ Các chức năng
 
 - Đăng nhập
 - Đăng ký vé
@@ -44,46 +44,5 @@
 - Thêm chỗ ngồi
 - Thêm vé xe
 - Thanh toán (Giả lập)
-
----
-
-## 🧪 Phương pháp kiểm thử
-
-### 📦 Kiểm thử hộp đen (Black-box Testing)
-
-- **Khái niệm:**  
-  Kiểm thử hộp đen là phương pháp kiểm thử phần mềm chỉ tập trung vào **đầu vào và kết quả đầu ra** của ứng dụng mà **không cần biết logic bên trong hay mã nguồn chương trình**.
-
-- **Áp dụng trong dự án:**  
-  Các chức năng như đăng nhập, đặt vé, chọn ghế, thanh toán... đều được kiểm thử theo phương pháp hộp đen.  
-  Mục đích là đảm bảo hệ thống phản hồi đúng với các dữ liệu hợp lệ và không hợp lệ.
-
----
-
-### 🧰 Công cụ hỗ trợ kiểm thử - Selenium IDE
-
-- **Selenium IDE là gì?**  
-  Selenium IDE (Integrated Development Environment) là **công cụ kiểm thử tự động cho ứng dụng web**, dạng **Record & Playback**.
-
-- **Ứng dụng trong dự án:**  
-  Nhóm sử dụng Selenium IDE để **ghi lại các thao tác người dùng trên giao diện web**, sau đó **tự động chạy lại các test case** nhiều lần nhằm kiểm tra độ ổn định của giao diện.
-
-- **Ưu điểm của Selenium IDE:**  
-  - Không cần viết mã lập trình phức tạp.
-  - Giao diện thân thiện với người dùng.
-  - Dễ dàng kiểm thử hồi quy (Regression Testing) trên trình duyệt.
-
----
-
-## 👥 Thông tin nhóm thực hiện
-
-- **Tên nhóm:** Kiểm thử phần mềm - BOOK-TICKET-BUS-APP
-- **Thành viên:**  
-  - Nguyễn Danh Hiếu 
-  - Bùi Ngọc Đức
-  - Lê Thành Nam
-  - Phạm Văn Thân
-  - Vũ Thành Dương
-
 
 ---
